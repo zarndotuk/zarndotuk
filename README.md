@@ -6,7 +6,6 @@
 
 Building Micro Frontends/Apps at enterprise scale, and running a bunch of side projects in my free time.
 
-[![Portfolio](https://img.shields.io/badge/zarn.uk-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zarn.uk)
 [![DiffViewr](https://img.shields.io/badge/diffviewr.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diffviewr.com)
 [![DevBee](https://img.shields.io/badge/devbee.uk-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devbee.uk/)
 [![TaskTracker](https://img.shields.io/badge/tasktracker.zarn.uk-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tasktracker.zarn.uk/)
