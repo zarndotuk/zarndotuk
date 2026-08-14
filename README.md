@@ -51,22 +51,6 @@ Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML
 
 </div>
 
----
-
-### Pinned Repos
-
-<div align="center">
-
-<a href="https://github.com/zarndotuk/DiffViewr">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zarndotuk&repo=repo-one&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF233C" />
-</a>
-<a href="https://github.com/zarndotuk/repo-two">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zarndotuk&repo=repo-two&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF233C" />
-</a>
-
-</div>
-
-> ⚠️ Replace `repo-one` / `repo-two` above with your actual repo names — pin cards need an exact repo match to render.
 
 ---
 
