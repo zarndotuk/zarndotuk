@@ -29,19 +29,6 @@ Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zarndotuk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF233C&icon_color=EF233C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarndotuk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF233C" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zarndotuk&theme=radical&hide_border=true&background=0D1117&ring=EF233C&fire=EF233C" />
-
-</div>
-
----
-
 ### Contribution Graph
 
 <div align="center">
