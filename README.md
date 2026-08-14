@@ -17,7 +17,7 @@ Building Micro Frontends/Apps at enterprise scale, and running a bunch of side p
 
 ### About
 
-Most of my side projects start the same way — I need something that doesn't quite exist yet, and pretend I know what I'm doing until it works.
+Most of my side projects start the same way — I fancy something that doesn't quite exist yet, and bumble along pretending I know what I'm doing until it works.
 
 Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML/.env files, a task tracker.
 
