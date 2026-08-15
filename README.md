@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hassan
-
-**Professional Intern** 🍵 *(don't check my commit history, it'll blow my cover)*
+# Hassan Humayun
 
 Building Micro Frontends/Apps at enterprise scale, and running a bunch of side projects in my free time.
 
