@@ -25,19 +25,6 @@ Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML
 - 📚 **Learning:** Agentic AI and Python — send help, or snacks
 - 📍 Malaysia
 
----
-
-### Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarndotuk&theme=react-dark&hide_border=true&bg_color=0D1117&color=fff&line=EF233C&point=FFFFFF" width="100%" />
-
-</div>
-
-
----
-
 ### Tech I work with
 
 <div align="center">
@@ -55,6 +42,15 @@ Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </div>
+
+### Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarndotuk&theme=react-dark&hide_border=true&bg_color=0D1117&color=fff&line=EF233C&point=FFFFFF" width="100%" />
+
+</div>
+
 
 ---
 
