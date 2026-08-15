@@ -2,7 +2,7 @@
 
 # Hassan
 
-**Professional Photographer** 📸 *(my code is the only thing I don't shoot in RAW)*
+**Professional Intern** 🍵 *(don't check my commit history, it'll blow my cover)*
 
 Building Micro Frontends/Apps at enterprise scale, and running a bunch of side projects in my free time.
 
