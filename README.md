@@ -43,13 +43,6 @@ Right now that's a distraction-free YouTube player, a diffing tool for JSON/YAML
 
 </div>
 
-### Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarndotuk&theme=react-dark&hide_border=true&bg_color=0D1117&color=fff&line=EF233C&point=FFFFFF" width="100%" />
-
-</div>
 
 
 ---
